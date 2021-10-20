@@ -3,7 +3,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 
-# Ambiente dev!!!!!
 
 In the project directory, you can run:
 
