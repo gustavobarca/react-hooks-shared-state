@@ -2,16 +2,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-OIA LA GALERA
-
-ainaina
-
-
-teste denovo
-
-eu dinovo
-
-
 In the project directory, you can run:
 
 ### `yarn start`
