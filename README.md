@@ -8,13 +8,7 @@ FIDAPUTA
 
 
 
-
-
-
-INFERNOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-
-
-
+Ah sa merda man
 In the project directory, you can run:
 
 ### `yarn start`
