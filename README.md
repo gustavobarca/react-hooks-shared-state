@@ -5,8 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ---- DEVELOPMENT2222222222!
 
 FIDAPUTA
- 
- 
+
 In the project directory, you can run:
 
 ### `yarn start`
