@@ -2,15 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-ooooooo make it feel like the first time
-
-UOUOUOUO
-
-ESSA AQ FOIFFERA
-
-PINDANAMIOANGABA!
-
-===============================================
+---- DEVELOPMENT!
 
 In the project directory, you can run:
 
