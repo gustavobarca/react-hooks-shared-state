@@ -4,6 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Eu não aguento maisssss
 
+TELOLAO
+
 ### `yarn start`
 
 Runs the app in the development mode.<br />
